@@ -1719,10 +1719,10 @@
     semver "^7.3.5"
     tar "^6.1.11"
 
-"@next/bundle-analyzer@latest":
-  version "12.1.6"
-  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-12.1.6.tgz#5f4efcdb8c91d70c8be6013b0aacdb4d89ba1312"
-  integrity sha512-WLydwytAeHoC/neXsiIgK+a6Me12PuSpwopnsZgX5JFNwXQ9MlwPeMGS3aTZkYsv8QmSm0Ns9Yh9FkgLKYaUuQ==
+"@next/bundle-analyzer@12.3.7":
+  version "12.3.7"
+  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-12.3.7.tgz#e6bf87fc09c5e4929c4f7237849d4e6aa8ae8cb3"
+  integrity sha512-bUjEBnAtlHR+vorMbq8LJZTZryE0XmNDiVx96kgJjazyVx5+ogC17JEiBi1toNDiz21mfM4rAqDEiD8kgZEzSA==
   dependencies:
     webpack-bundle-analyzer "4.3.0"
 
